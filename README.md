@@ -16,7 +16,7 @@ This repository hosts Jupyter Notebooks relevant to our lectures and lab course.
 | 16 Mar 2022               | Lab 1: Supervised Learning   | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/MLBBWL-2022FS/blob/main/lab_01/lab_01.ipynb)  |
 | 16 Mar 2022               | Coding Assignment 1: Traditional ML   | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/MLBBWL-2022FS/blob/main/assignment_1/assignment_1.ipynb)  |
 | 23 Mar 2022               | Lecture 4 (Unsupervised Learning) support notebook   | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/MLBBWL-2022FS/blob/main/lecture_04/04_unsupervisedlearning.ipynb)  |  
-| 30 Mar 2022               | Lab 2: Unsupervised Learning   |   |  
+| 30 Mar 2022               | Lab 2: Unsupervised Learning   | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/MLBBWL-2022FS/blob/main/lab_02/lab_02.ipynb)   |  
 | 20 Apr 2022               | Lecture 5 (Neural Networks)   |   |  
 | 27 Apr 2022               | Lab 3: Neural Networks   |   |  
 | 4 May 2022               | Lecture 6 (CNNs and Computer Vision)   |   |  
